@@ -1,8 +1,12 @@
-# Getting Started with Create React App
+# Text Analyzer App Using React Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Visit Webpage: <a href="https://virendertextanalyzer.netlify.app/" target="_blank">Click here</a>
 
-## Available Scripts
+## About App
+
+This project is created using react js. Created by Virender Pratap Singh. It has multiple functionality for text editing according to user. It has both light and dark mode
+
+## Install Package
 
 In the project directory, you can run:
 
